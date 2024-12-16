@@ -4,8 +4,13 @@
   <img src="https://github.com/abdullah-0an/abdullah-0an/blob/main/banner.png" width="100%" style="border-radius: 10px;"/>
 </p>
 
+
+---
+
 # 🚀 About Me
 I am an **AI Engineer** and **Data Scientist** with a passion for building intelligent systems and solving real-world problems through data. I specialize in **Machine Learning**, **Deep Learning**, **NLP**, and **Data Science**. Currently, I am focused on deploying AI models and learning more about **Reinforcement Learning** and **MLOps**.
+
+---
 
 
 # 🔧 Skills & Technologies
@@ -28,6 +33,7 @@ I am an **AI Engineer** and **Data Scientist** with a passion for building intel
 - **Kaggle**: [abdullah0an@example.com](https://www.kaggle.com/abdullah0a)
 
 
+---
 
 ## 📈 GitHub Stats
 
