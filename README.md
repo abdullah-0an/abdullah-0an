@@ -1,7 +1,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/abdullah-0an/abdullah-0an/blob/main/banner.png" width="70%" style="border-radius: 10px;"/>
+  <img src="https://github.com/abdullah-0an/abdullah-0an/blob/main/banner.png" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ## 🚀 About Me
