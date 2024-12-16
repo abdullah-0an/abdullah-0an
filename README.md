@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-0an/abdullah-0an/main/image%20(34).png" alt="Banner Image" width="100%" style="border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/abdullah-0an/abdullah-0an/main/image%20(34).png" alt="Banner Image" width="50%" style="border-radius: 10px;"/>
 </p>
 
 ## 🚀 About Me
