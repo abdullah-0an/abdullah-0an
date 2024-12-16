@@ -1,8 +1,8 @@
-# 👨‍💻 AI Engineer & Data Scientist | [Your Name]
+# 👨‍💻 AI Engineer & Data Scientist | Abdullah
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/banner-image.png" alt="Banner Image" width="100%" style="border-radius: 10px;"/>
+  <img src="https://raw.githubusercontent.com/abdullah-0an/abdullah-0an/main/image%20(34).png" alt="Banner Image" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ## 🚀 About Me
@@ -22,9 +22,9 @@ I am an **AI Engineer** and **Data Scientist** with a passion for building intel
 
 ## 📚 Key Projects
 
-- **[AI Chatbot with NLP](https://github.com/yourusername/chatbot-project)**: Built an intelligent chatbot using GPT-3 for automated customer service.
-- **[Stock Market Prediction](https://github.com/yourusername/stock-prediction)**: Developed a time series prediction model to forecast stock prices.
-- **[Image Classification](https://github.com/yourusername/image-classification)**: Trained a convolutional neural network (CNN) to classify images from the CIFAR-10 dataset.
+- **[AI Chatbot with NLP](https://github.com/abdullah-0an/chatbot-project)**: Built an intelligent chatbot using GPT-3 for automated customer service.
+- **[Stock Market Prediction](https://github.com/abdullah-0an/stock-prediction)**: Developed a time series prediction model to forecast stock prices.
+- **[Image Classification](https://github.com/abdullah-0an/image-classification)**: Trained a convolutional neural network (CNN) to classify images from the CIFAR-10 dataset.
 
 ---
 
@@ -44,9 +44,9 @@ I am an **AI Engineer** and **Data Scientist** with a passion for building intel
 
 ## 📬 How to Reach Me
 
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **Website**: [yourportfolio.com](https://www.yourportfolio.com)
+- **LinkedIn**: [linkedin.com/in/abdullah-0an](https://www.linkedin.com/in/abdullah-0an)
+- **Email**: [abdullah0an@example.com](mailto:abdullah0an@example.com)
+- **Website**: [abdullah0an.com](https://www.abdullah0an.com)
 
 ---
 
@@ -57,13 +57,13 @@ When I'm not training models or analyzing data, you can find me experimenting wi
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-0an&show_icons=true&hide_title=true&count_private=true&hide_border=true)
 
 ---
 
 ## 🚀 Open Source Contributions
 
-- **[OpenAI GPT-3](https://github.com/yourusername/gpt3-contribution)**: Contributed to fine-tuning GPT models for specific tasks.
-- **[Scikit-learn](https://github.com/yourusername/scikit-learn-contribution)**: Improved the documentation and added new machine learning algorithms.
+- **[OpenAI GPT-3](https://github.com/abdullah-0an/gpt3-contribution)**: Contributed to fine-tuning GPT models for specific tasks.
+- **[Scikit-learn](https://github.com/abdullah-0an/scikit-learn-contribution)**: Improved the documentation and added new machine learning algorithms.
 
 ---
