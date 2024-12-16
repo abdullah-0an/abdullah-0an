@@ -1,6 +1,6 @@
 # Hello, I'm [M Abdullah] 👨‍💻 | AI Engineer & Data Scientist
 
-![Banner Image](DALL·E 2024-12-16 20.50.57 - A simple yet modern tech-themed image with a sleek design, featuring the text 'Artificial Intelligence' prominently displayed in a clean and bold futu.webp)
+![Banner Image](https://raw.githubusercontent.com/abdullah-0an/abdullah-0an/refs/heads/main/DALL%C2%B7E%202024-12-16%2020.50.57%20-%20A%20simple%20yet%20modern%20tech-themed%20image%20with%20a%20sleek%20design%2C%20featuring%20the%20text%20'Artificial%20Intelligence'%20prominently%20displayed%20in%20a%20clean%20and%20bold%20futu.webp)
 
 ## 🚀 About Me:
 I am an **AI Engineer** and **Data Scientist** with a passion for building intelligent systems and solving real-world problems through data. I love experimenting with machine learning models, analyzing large datasets, and developing scalable solutions.
