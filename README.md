@@ -1,6 +1,6 @@
 # Hello, I'm [M Abdullah] 👨‍💻 | AI Engineer & Data Scientist
-<img src="<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/banner-image.png" alt="Banner Image" width="600px"/>
 
+<img src="https://raw.githubusercontent.com/abdullah-0an/abdullah-0an/main/image%20(34).png" alt="Banner Image" style="width: 100%; height: auto;" />
 
 
 ## 🚀 About Me:
